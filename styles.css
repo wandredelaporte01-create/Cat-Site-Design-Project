@@ -1,0 +1,187 @@
+.title {
+    width: 1380px;
+    height: 150px;
+    font-size: 100px;
+    position: fixed;
+    left: 0px;
+    top: -75px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #123456;
+    color: white;
+    z-index: 1000;
+}
+.navbar {
+    position: fixed;
+    top: 142px;
+    width: 100px;
+    height: 25px;
+    background-color: #567890;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    z-index: 1000;
+}
+.navbar:hover {
+    background-color: #abcdef;
+}
+#homepagelink {
+    left: 0px;
+}
+#articlelink {
+    left: 100px;
+}
+#mycatslink {
+    left: 200px;
+}
+#forumslink {
+    left: 300px;
+}
+.blank {
+    position: fixed;
+    top: 126px;
+    left: 400px;
+    width: 980px;
+    height: 25px;
+    background-color: #567890;
+    z-index: 1000;
+}
+.spacing {
+    height: 167px;
+}
+.page-title {
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.p1    {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+#munchkin-1 {
+    position: absolute;
+    top: 167px;
+    left: 1160px;
+    height: 180px;
+    width: 200px;
+}
+#munchkincaption {
+    position: absolute;
+    top: 337px;
+    left: 1160px;
+    width: 200px;
+    height: 25px;
+    text-align: center;
+}
+#ccarticlebox {
+    border: 1px solid black;
+    width: 1000px;
+    height: 200px;
+    padding: 10px;
+    position: absolute;
+    left: 10px;
+    top: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#abcdef;
+    font-size: 50px;
+}
+#ccarticlebxlink {
+    position: absolute;
+    left: 100px;
+    top: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#123456;
+    font-size: 50px;
+}
+#ccimg {
+    position: absolute;
+    left: 800px;
+    top: 410px;
+    background-image: url(temp.png);
+    font-family: Arial, Helvetica, sans-serif;
+    color:#123456;
+    font-size: 50px;
+    width: 200px;
+    height: 200px;
+}
+#cfarticlebox {
+    border: 1px solid black;
+    width: 1000px;
+    height: 200px;
+    padding: 10px;
+    position: absolute;
+    left: 10px;
+    top: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#abcdef;
+    font-size: 50px;
+}
+#cfarticlebxlink:hover {
+    color: #ffffff;
+}
+#ccarticlebxlink:hover {
+    color: #ffffff;
+}
+#cfarticlebxlink {
+    position: absolute;
+    left: 100px;
+    top: 800px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#123456;
+    font-size: 50px;
+}
+#cfimg {
+    position: absolute;
+    left: 800px;
+    top: 710px;
+    background-image: url(temp.png);
+    font-family: Arial, Helvetica, sans-serif;
+    color:#123456;
+    font-size: 50px;
+    width: 200px;
+    height: 200px;
+}
+.return-link {
+    font-family: Arial, Helvetica, sans-serif;
+    color:#123456;
+    font-size: 20px;
+}
+.return-link:hover {
+    font-family: Arial, Helvetica, sans-serif;
+    color:#abcdef;
+    font-size: 20px;
+}
+table {
+    border: 1px solid #123456;
+    background-color:#567890;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:25px;
+    text-align: center;
+}
+thead tr td {
+    height: 30px;
+    width: 300px;
+    background-color:#ffffff;
+    border: 1px solid #123456;
+}
+tbody tr td {
+    height: 30px;
+    width: 300px;
+    background-color:#ffffff;
+    border: 1px solid #123456;
+}
+.pictures td {
+    height: 300px;
+    width: 300px;
+}
+#m1 {
+    background-image: url(munchkin-1.png);
+}
+#m2 {
+    background-image: url(ninja-1.png);
+}
+.h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size:25px;
+}
